@@ -1,5 +1,7 @@
 # Welcome to GitHub
 
+Hey! Ms.MingMing here giving a big ni hao to you all! First time using this and startring to get the hang of it. Xi Xi for all of your comments and pull requests!
+
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
 ## Repositories
